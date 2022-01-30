@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Yes! Leave your thoughts behind!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Let's do an activity together - get a glass of water and close your eyes.
